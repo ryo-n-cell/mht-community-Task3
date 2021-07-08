@@ -1,10 +1,10 @@
 # mht_com_task3
 
-QueensTechLabの課題２を載せています。
+QueensTechLabの課題3を載せています。
 
 main.dartに全て記載しています。
 
-# 課題2
+# 課題3
 
 ### リストデータを作って、リストデータの値を画面に表示させてみよう！
 
