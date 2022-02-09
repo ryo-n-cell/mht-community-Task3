@@ -1,16 +1,17 @@
-# test2
+# mht_com_task3
 
-A new Flutter project.
+QueensTechLabの課題3を載せています。
 
-## Getting Started
+main.dartに全て記載しています。
 
-This project is a starting point for a Flutter application.
+# 課題3
 
-A few resources to get you started if this is your first Flutter project:
+### リストデータを作って、リストデータの値を画面に表示させてみよう！
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+ListTileでリストとして表示。
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ログにはタップした時に「onTap called.」と表示。
+
+参考サイト：
+
+https://flutter.ctrnost.com/basic/layout/listview/
